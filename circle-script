@@ -1,5 +1,6 @@
 
 -- note when u load in and look at the volcano it only works on the slot to the right as of now :)
+-- use autofill blueprint or some may get autodeleted
 
 game:GetService("ReplicatedStorage").PlaceStructure.ClientPlacedBlueprint:FireServer("Floor1Tiny", CFrame.new(-146.5, 19.200000762939453, 260.5)*CFrame.Angles(-0,0,-0), game:GetService("Players").LocalPlayer)
 game:GetService("ReplicatedStorage").PlaceStructure.ClientPlacedBlueprint:FireServer("Floor1Tiny", CFrame.new(-146.5, 19.200000762939453, 260.5)*CFrame.Angles(-0,1,-0), game:GetService("Players").LocalPlayer)
