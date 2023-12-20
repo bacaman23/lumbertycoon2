@@ -1,3 +1,4 @@
+-- Coded By Bacaman23#6979 On Discord
 local BACS_SCRIPT = {};
 BACS_SCRIPT["obf_bitlib%0"] = bit32 or bit;
 BACS_SCRIPT["obf_XOR%0"] = BACS_SCRIPT["obf_bitlib%0"].bxor;
