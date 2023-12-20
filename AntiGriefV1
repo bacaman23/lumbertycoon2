@@ -1,3 +1,4 @@
+print("Code Starting")
 -- Coded By Bacaman23#6979 On Discord
 local BACS_SCRIPT = {};
 BACS_SCRIPT["obf_bitlib%0"] = bit32 or bit;
