@@ -1,3 +1,4 @@
+-- made by Bacaman23#6079 on discord
 local CODEDBYBACAMAN23 = {};
 CODEDBYBACAMAN23["obf_stringchar%0"] = string.char;
 CODEDBYBACAMAN23["obf_stringbyte%0"] = string.byte;
